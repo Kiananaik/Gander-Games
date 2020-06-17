@@ -82,13 +82,17 @@ nav,
   justify-content: center;
   max-width: 350px;
 }
+
+/* THIS IS WHERE NAVBAR COLOR IS */
 .navbar-collapse {
-  background-color: rgba(0, 0, 0, 0.699);
+  background-color: rgba(179, 0, 0, 0.699);
 }
 .navbar-nav {
   flex: 1;
   order: 1;
 }
+
+/* IM CHANGING THIS AGAIN */
 .locate {
   flex: 1;
   order: 2;
@@ -97,7 +101,7 @@ nav,
   align-items: center;
   margin-left: 3rem;
   margin-top: 1rem;
-  color: rgb(179, 0, 0, 0.719);
+  color: rgb(37, 93, 196, 0.719);
 }
 .mastfoot {
   flex: 1;
@@ -135,6 +139,7 @@ nav,
   font-weight: 700;
 }
 /* ---------------------- FOOTER --------------------------------- */
+/* IM CHANGING THIS AGAIN */
 .footerbox {
   display: -ms-flexbox;
   display: flex;
@@ -147,7 +152,7 @@ nav,
   text-align: center;
   font-weight: bold;
   font-size: small;
-  color: rgb(179, 0, 0, 0.719);
+  color: rgb(37, 93, 196, 0.719);
 }
 #tag {
   text-align: left;
