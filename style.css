@@ -4,7 +4,7 @@ a:focus {
   text-decoration: none;
 }
 a:hover {
-  color: rgb(37, 93, 196);
+  color: rgb(50, 122, 255);
   text-decoration: none;
 }
 a:active {
@@ -101,7 +101,7 @@ nav,
   align-items: center;
   margin-left: 3rem;
   margin-top: 1rem;
-  color: rgb(37, 93, 196);
+  color: rgb(50, 122, 255);
 }
 .mastfoot {
   flex: 1;
@@ -152,7 +152,7 @@ nav,
   text-align: center;
   font-weight: bold;
   font-size: small;
-  color: rgb(37, 93, 196);
+  color: rgb(50, 122, 255);
 }
 #tag {
   text-align: left;
